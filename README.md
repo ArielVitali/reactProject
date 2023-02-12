@@ -52,3 +52,9 @@ Se puede clonar el repositorio, ingresando a una terminal y ejecutando:
 https://github.com/ArielVitali/reactProject
 
 Luego continuar con el paso 3 de la otra forma
+
+
+
+
+https://user-images.githubusercontent.com/73970109/218333791-2f22f799-dee9-4403-a3e3-d927fa611049.mp4
+
